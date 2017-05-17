@@ -7,3 +7,6 @@ set(myObj, 'hello', 'world');
 console.log(arrify(1));
 console.log(myObj);
 console.log('OK');
+
+const aaa ={a:1};
+
