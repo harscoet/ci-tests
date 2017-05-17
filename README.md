@@ -1,1 +1,1 @@
-# jenkins-tests
+# ci-tests
