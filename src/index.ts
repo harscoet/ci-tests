@@ -2,7 +2,7 @@ import arrify = require('arrify');
 import { set } from 'lodash';
 
 const myObj = {};
-set(myObj, 'hello', 'world');
+set(myObj, 'hello');
 
 console.log(arrify(1));
 console.log(myObj);
