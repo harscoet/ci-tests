@@ -1,0 +1,6 @@
+{
+  "name": "api.early-birds",
+  "dependencies": {
+    "arrify": "registry:npm/arrify#1.0.0+20160723033700"
+  }
+}
